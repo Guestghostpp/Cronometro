@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+button{
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: aliceblue;
+    margin: 5px;
+    
+}
+#start{
+    background-color: rgb(47, 172, 47);
+    width: 5em;
+    
+}
+#pause{
+    background-color: gray;
+    width: 5em;
+    
+}
+#zero{
+    background-color: rgb(252, 67, 67);
+    width: 5em;
+}
+button:hover{
+    cursor: pointer;
+}
